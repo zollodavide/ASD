@@ -18,4 +18,4 @@ void aggiungiInPosizione(pnodo* l, int val, int pos) ;
 void cancellaTesta(pnodo* list) ;
 void cancellaCoda(pnodo* l) ;
 void creaLista(pnodo* l, int n) ;
-void cancellaInPosizione(pnodo* l, int pos) ;
+void cancellaInPosizione(pnodo* l, int pos);
